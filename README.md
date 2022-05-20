@@ -8,3 +8,4 @@
 
 ## Deployment
 https://github.com/PANDITHAN/Dltmsgbotss
+https://github.com/PANDITHAN/dltallbotss/blob/master/README.md
